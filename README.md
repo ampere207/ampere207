@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📈 GitHub Overview
 
 <div align="center">
 
@@ -96,16 +96,14 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=ampere207&show_icons=true&theme=transparent"
-          alt="Aashrith's GitHub stats"
-          height="180em"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=transparent"
+          alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampere207&layout=compact&theme=transparent"
-          alt="Top Languages"
-          height="180em"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=transparent"
+          alt="Top Languages by Repo"
         />
       </td>
     </tr>
