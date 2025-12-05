@@ -19,7 +19,6 @@
 - Build **end-to-end products** across frontend, backend, and cloud.
 - Design **robust systems** with a focus on performance, scalability, and clean abstractions.
 - Explore **AI/ML** for intelligent, data-driven features.
-- Practice **DSA** and problem solving to sharpen core fundamentals.
 - Care about **secure application development** and modern **web security** practices.
 
 ---
@@ -108,11 +107,9 @@
 ## 🤝 Let’s Connect
 
 <p>
-  <!-- Optional: uncomment and add your actual links -->
-  <!--
   📧 Email: [aashrithmp@gmail.com](mailto:aashrithmp@gmail.com)  
   💼 LinkedIn: [linkedin.com/in/aashrith-m-p](https://linkedin.com/in/aashrith-m-p)
-  -->
+  
   
   I’m always open to discussing full-stack engineering, system design, AI/ML, and security-centric development.
 </p>
