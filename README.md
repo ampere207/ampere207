@@ -88,28 +88,52 @@
 
 ---
 
-## 📈 GitHub Overview
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ampere207&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207" alt="GitHub Streak" />
-</p>
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=ampere207&show_icons=true&theme=transparent"
+          alt="Aashrith's GitHub stats"
+          height="180em"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampere207&layout=compact&theme=transparent"
+          alt="Top Languages"
+          height="180em"
+        />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampere207&layout=compact" alt="Top Languages" />
-</p>
+  <br/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207"
+    alt="GitHub Streak"
+  />
+
+</div>
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p>
-  📧 Email: [aashrithmp@gmail.com](mailto:aashrithmp@gmail.com)  
-  💼 LinkedIn: [linkedin.com/in/aashrith-m-p](https://linkedin.com/in/aashrith-m-p)
-  
-  
+<p align="center">
+  <a href="mailto:aashrithmp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Aashrith_MP-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aashrith-m-p" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aashrith%20M%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
   I’m always open to discussing full-stack engineering, system design, AI/ML, and security-centric development.
 </p>
