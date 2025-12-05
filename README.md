@@ -6,12 +6,6 @@
   <em>Full Stack Development • Systems Design • Product Development • AI/ML • DSA</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ampere207">
-    <img src="https://komarev.com/ghpvc/?username=ampere207&style=flat&label=Profile%20Views" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 What I Do
@@ -92,18 +86,35 @@
 
 <div align="center">
 
+  <!-- Row 1: core stats + languages -->
   <table>
     <tr>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=transparent"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=transparent"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=tokyonight"
           alt="Top Languages by Repo"
+        />
+      </td>
+    </tr>
+
+  <!-- Row 2: commit behavior + profile details -->
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ampere207&theme=tokyonight"
+          alt="Most Used Languages by Commit"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampere207&theme=tokyonight"
+          alt="Commit Activity by Time of Day"
         />
       </td>
     </tr>
@@ -111,12 +122,14 @@
 
   <br/>
 
+  <!-- Full-width streak at the bottom -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207&theme=tokyonight"
     alt="GitHub Streak"
   />
 
 </div>
+
 
 ---
 
