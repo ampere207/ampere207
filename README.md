@@ -6,12 +6,6 @@
   <em>Full Stack Development • Systems Design • Product Development • AI/ML • DSA</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ampere207">
-    <img src="https://komarev.com/ghpvc/?username=ampere207&style=flat&label=Profile%20Views" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 What I Do
