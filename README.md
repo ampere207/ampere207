@@ -86,35 +86,18 @@
 
 <div align="center">
 
-  <!-- Row 1: core stats + languages -->
   <table>
     <tr>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=transparent"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=transparent"
           alt="Top Languages by Repo"
-        />
-      </td>
-    </tr>
-
-  <!-- Row 2: commit behavior + profile details -->
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ampere207&theme=tokyonight"
-          alt="Most Used Languages by Commit"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampere207&theme=tokyonight"
-          alt="Commit Activity by Time of Day"
         />
       </td>
     </tr>
@@ -122,14 +105,12 @@
 
   <br/>
 
-  <!-- Full-width streak at the bottom -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207"
     alt="GitHub Streak"
   />
 
 </div>
-
 
 
 ---
