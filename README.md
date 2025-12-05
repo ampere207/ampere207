@@ -6,6 +6,12 @@
   <em>Full Stack Development • Systems Design • Product Development • AI/ML • DSA</em>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ampere207">
+    <img src="https://komarev.com/ghpvc/?username=ampere207&style=flat&label=Profile%20Views" alt="Profile views" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 What I Do
@@ -82,22 +88,62 @@
 
 ---
 
-## 📈 GitHub Overview
+## 🏅 Achievements
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ampere207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+    alt="GitHub Trophies"
+  />
+</div>
+
+<!--
+  You can also add custom hackathon / event badges here,
+  similar to your friend's README, using <img> tags in a row.
+  Just make sure they’re actually events you took part in :)
+-->
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
+  <!-- High-level profile card -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ampere207&theme=tokyonight"
+    alt="Profile Details"
+  />
+
+  <br/><br/>
+
+  <!-- 2x2 Dashboard: stats + languages + commits + productive time -->
   <table>
     <tr>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=transparent"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ampere207&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=transparent"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ampere207&theme=tokyonight"
           alt="Top Languages by Repo"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ampere207&theme=tokyonight"
+          alt="Most Used Languages by Commit"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ampere207&theme=tokyonight"
+          alt="Commit Activity by Time of Day"
         />
       </td>
     </tr>
@@ -105,13 +151,48 @@
 
   <br/>
 
+  <!-- Streak as a full-width bar -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ampere207&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 
 </div>
 
+---
+
+## 🧾 Extra Stats (Fallback Widgets)
+
+Even if one service goes down, others still show something.
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ampere207&show_icons=true&theme=radical&hide_border=true"
+    alt="Classic GitHub Stats"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampere207&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages Compact"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ampere207&theme=react-dark&area=true"
+      alt="Contribution Graph"
+    />
+  </a>
+</div>
 
 ---
 
