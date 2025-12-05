@@ -161,28 +161,6 @@
 
 ---
 
-## 🧾 Extra Stats (Fallback Widgets)
-
-Even if one service goes down, others still show something.
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ampere207&show_icons=true&theme=radical&hide_border=true"
-    alt="Classic GitHub Stats"
-  />
-
-  <br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampere207&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages Compact"
-  />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
